@@ -1,7 +1,7 @@
 [project]
 name = "rag-project"
 version = "0.1.0"
-description = "Testing rag"
+description = "A compact PDF RAG pipeline using LangChain, OpenAI, and persistent Chroma vector search."
 readme = "README.md"
 authors = [
     { name = "MannyYebz", email = "mannyyebz@gmail.com" }
